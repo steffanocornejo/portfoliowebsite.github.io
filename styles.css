@@ -1,0 +1,35 @@
+body {
+    background: rgb(21, 21, 27);
+    font-family: "Raleway", Arial;
+}
+
+.definition {
+    font-weight: 700;
+}
+.information {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 400;
+    color: rgb(124, 221, 234);
+}
+
+.name {
+    margin-bottom: 45px;
+}
+
+.school {
+    margin-bottom: 45px;
+}
+
+.current-year {
+    margin-bottom: 45px;
+}
+.image {
+    width: 185px;
+    height: 185px;
+    border-radius: 100px;
+    position: absolute;
+    right: 160px;
+    top: 35px;
+}
+
